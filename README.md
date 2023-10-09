@@ -6,15 +6,15 @@ Code Fellows Reading Journal
 ## Table of Contents
 
 ## Ops 102 - Reading Notes
-1. [Day 1](Class01.md)
-2. [Day 2](Class02.md)
-3. [Day 3](Class03.md)
-4. [Day 4](Class04.md)
-5. [Day 5](Class05.md)
-6. [Day 6](Class06.md)
-7. [Day 7](Class07.md)
-8. [Day 8](Class08.md)
-9. [Day 9](Class09.md)
+1. [Day 1](reading-notes/Class01.md)
+2. [Day 2](reading-notes/Class02.md)
+3. [Day 3](reading-notes/Class03.md)
+4. [Day 4](reading-notes/Class04.md)
+5. [Day 5](reading-notes/Class05.md)
+6. [Day 6](reading-notes/Class06.md)
+7. [Day 7](reading-notes/Class07.md)
+8. [Day 8](reading-notes/Class08.md)
+9. [Day 9](reading-notes/Class09.md)
 
 ## Ops 201 - Reading Notes
 1. [Day 1](201/201-1.md)

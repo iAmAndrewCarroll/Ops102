@@ -38,3 +38,4 @@ Resources:
 - [Infographic - pcbuildadvisor.com](https://www.pcbuildadvisor.com/how-to-build-a-computer-step-by-step-infographic/)
 - [chatGPT](https://chat.openai.com/auth/login)
 - Google
+
