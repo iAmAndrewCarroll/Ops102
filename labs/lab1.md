@@ -77,3 +77,5 @@
 - case / tower component
 - houses the hardwares components
 - Dell Optiplex 790
+
+made changes with Marco
