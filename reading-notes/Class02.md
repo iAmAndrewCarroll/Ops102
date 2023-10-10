@@ -2,31 +2,28 @@
 
 ### Build a Computer
 
-1. More cores or higher speed in a CPU?
+1. **More cores or higher speed in a CPU?**
+   - It depends on your use case. More cores are good for multitasking, while higher speed benefits single-threaded tasks. For standard use, 4-6 cores are sufficient.
 
-  - It depends on your use case. More cores are good for multitasking, while higher speed benefits single-threaded tasks. For standard use, 4-6 cores are sufficient.
 
+2. **Choosing a motherboard for your processor:**
+   - Ensure compatibility with CPU socket type.
+   - Consider onboard features, RAM slots, PCIe slots, and compatibility with other components.
 
-2. Choosing a motherboard for your processor:
+3. **Trade-offs in storage device selection:**
+   - HDDs: More storage, lower cost, slower, less durable.
+   - SSDs: Faster, more durable, higher cost per GB.
 
-- Ensure compatibility with CPU socket type.
-Consider onboard features, RAM slots, PCIe slots, and compatibility with other components.
+4. **Explaining computer parts to someone with a similar background:**
+   - CPU: The brain.
+   - Motherboard: Connects everything.
+   - RAM: Workspace / Table
+   - Storage Drive: Memory.
+   - Power Supply: Provides power.
+   - Graphics Card: For visuals.
+   - Cooling System: Prevents overheating.
+   - Case: Houses components.
 
-3. Trade-offs in storage device selection:
-
-- HDDs: More storage, lower cost, slower, less durable.
-- SSDs: Faster, more durable, higher cost per GB.
-
-4. Explaining computer parts to someone with a similar background:
-
-- CPU: The brain.
-- Motherboard: Connects everything.
-- RAM: Workspace / Table
-- Storage Drive: Memory.
-- Power Supply: Provides power.
-- Graphics Card: For visuals.
-- Cooling System: Prevents overheating.
-- Case: Houses components.
 
 ### Things I Want To Know More About
 
@@ -38,4 +35,3 @@ Resources:
 - [Infographic - pcbuildadvisor.com](https://www.pcbuildadvisor.com/how-to-build-a-computer-step-by-step-infographic/)
 - [chatGPT](https://chat.openai.com/auth/login)
 - Google
-
