@@ -37,7 +37,7 @@
 
 **Configure USB flash drive to take priority over the hard drive. We'll need this to install Ubuntu via USB later.**
 **Include a photo of the boot order/priority menu.**
-![Boot Sequence](media/bootsequence.jpeg)
+![Boot Sequence](media/usbboot.jpg)
 
 **Describe the steps you took and any issues you encountered.**
 - I booted the computer, entered BIOS, went to the Boot Sequence menu and modified things as necessary
