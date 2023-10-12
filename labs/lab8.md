@@ -51,7 +51,7 @@ In this lab, you'll create a Windows 10 VM in VirtualBox. Follow the steps below
 
 3. Export a .ova file of your Windows 10 VM.
    - Make a copy of this file in a spacious and separate location from the SSD of the lab PC. If you have a second storage device on your lab machine, like a large HDD, that's an ideal place for backups.
-     - This export takes way longer than I thought it would.  I underestimated the file size I guess.  Looking at 6% progress and 39 minutes remaining right now.
+     - This export takes way longer than I thought it would.  I underestimated the file size I guess.  Looking at 6% progress and 39 minutes remaining right now.  Well, it finished saving much faster than the timer said and the properties show that it is only abour 5.8GB of data.  So not terribly large by today's standards.
 
 4. Use Import Appliance to import a new VM from the .ova file you exported.
    - How is this VM different from the original VM?
@@ -59,4 +59,18 @@ In this lab, you'll create a Windows 10 VM in VirtualBox. Follow the steps below
 
    - How do you imagine using this feature to save you time and effort?
      - Think of this .ova file like the water supply for a fire suppression system.  If a fire starts in seperate parts of the building the sprinkler system will put out the fire using the same water from the same supply.
-     - This can be seen as time saving and providing consistency across an enterprise environment.  If you have a need to setup a lab environment and ensure the testing is consistent across the board you'll be able to provide identical settings with the .ova file and NOT have to setup systems on 10, 15, or even hundreds of different devices.  Just push them out or download them onto each machine.  
+     - This can be seen as time saving and providing consistency across an enterprise environment.  If you have a need to setup a lab environment and ensure the testing is consistent across the board you'll be able to provide identical settings with the .ova file and NOT have to setup systems on 10, 15, or even hundreds of different devices.  Just push them out or download them onto each machine.
+
+**stretch goals**
+
+I couldn't get the Linux Mint to import.
+
+**resources**
+
+[ChatGPT](https://chat.openai.com/auth/login)
+
+[Google](google.com)
+
+[Windows Local Account](https://www.windowscentral.com/how-set-windows-10-local-account)
+
+[linuxvmimages](https://www.linuxvmimages.com/images/linuxmint-21/)
