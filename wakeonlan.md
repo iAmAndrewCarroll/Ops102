@@ -18,16 +18,20 @@ Result: /home/your name here/01-network-manager-all.yaml
 next up you are going to enter sudo nano /home/your name here/01-network-manager-all.yaml 
 
 this is going to take you to what is most likely a blank file.  It will ask you something I don't remember.  Just say yes.  Then you are going to code the following
+
+```
 network:
-  version: 2
-  renderer: networkd
-  ethernets:
-    eno1:
-      dhcp4: no
-      addresses: [192.168.0.198/13] # Replace with your lab computer's  IP address
-      gateway4: 192.168.0.1  # Replace with your router's IP address
-      nameservers:
-        addresses: [192.168.0.1]  # Replace with your DNS server addresses
+   version: 2
+   renderer: networkd
+   ethernets:
+     eno1:
+       dhcp4: no
+       addresses: [192.168.0.198/13] # Replace with your lab computer's  IP address
+       gateway4: 192.168.0.1  # Replace with your router's IP address
+       nameservers:
+         addresses: [192.168.0.1]  # Replace with your DNS server addresses
+```
+        
 
 This will set your Linux machine to a static IP address
 
