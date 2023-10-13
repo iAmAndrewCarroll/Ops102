@@ -32,12 +32,14 @@
    - Open the "Run" menu and run DXDIAG.
      - `inxi -G` to get system info
    - Include a screenshot of DXDIAG.
+     - ![DXDIAG](media/lab9%20-%20DXDIAG.png)
    - Describe the graphics processor listed in DXDIAG.
    
 2. About Your PC:
    - In the Windows SEARCH bar, search for and open 'About your PC.'
    - Include screenshots of "Device specifications" and "Windows specifications."
    - Rename the computer as desired, reboot, and provide a screenshot of the new 'About your PC' screen indicating the new name.
+     - ![Device & Windows](media/lab9%20-%20new%20name.png)
 
 ## Part 3: Command Line
 1. Command Line Operations:
