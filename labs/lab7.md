@@ -1,4 +1,4 @@
-# Lab 06: Connectivity and File Transfer
+# Lab 07: Connectivity and File Transfer
 
 ## Part 1: Check IP Addresses
 

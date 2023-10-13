@@ -1,4 +1,4 @@
-# Lab Assignment: Creating a Windows 10 VM in VirtualBox
+# Lab 8: Creating a Windows 10 VM in VirtualBox
 
 ## Task Instructions
 
